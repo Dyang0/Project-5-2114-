@@ -2,5 +2,5 @@ package prj5;
 
 public class Input {
  //dasdaads
-    //dsdsdsasa
+    //dsdsdsasaadawd
 }
