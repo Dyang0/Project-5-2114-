@@ -3,6 +3,10 @@
 	<name>Project 5 (2114)</name>
 	<comment></comment>
 	<projects>
+		<project>CollectionDisplay</project>
+		<project>CS2DataStructuresLib</project>
+		<project>CS2GraphWindowLib</project>
+		<project>CS2-Support</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
