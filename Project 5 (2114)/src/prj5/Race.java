@@ -20,5 +20,9 @@ public class Race {
     public int getDeathCount() {
         return deathCount;
     }
+    
+    public int getCases() {
+        return cases;
+    }
 
 }
