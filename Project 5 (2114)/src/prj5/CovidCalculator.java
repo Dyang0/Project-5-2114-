@@ -14,10 +14,10 @@ public class CovidCalculator {
     }
 
     private void sortBasedOnCRF() { //Insertion Sort
-        
+        hhhghghggh;
     }
     
-    public SinglyLinkedList<State> getOrderedState(){ //Pullll success
+    public SinglyLinkedList<State> getOrderedState(){ //Pullll successhgygygy
         return null;
     }
 
