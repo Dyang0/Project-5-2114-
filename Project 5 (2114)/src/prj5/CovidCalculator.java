@@ -17,7 +17,7 @@ public class CovidCalculator {
         
     }
     
-    public SinglyLinkedList<State> getOrderedState(){
+    public SinglyLinkedList<State> getOrderedState(){ //Pullll success
         return null;
     }
 
