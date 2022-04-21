@@ -5,9 +5,9 @@ public class Race {
     private int cases;
     private int deathCount;
 
-    public Race(String name, int case, int death) {
+    public Race(String name, int c, int death) {
         raceName = name;
-        cases = case;
+        cases = c;
         deathCount = death;
     }
 

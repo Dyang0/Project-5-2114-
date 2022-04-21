@@ -12,7 +12,7 @@ public class CovidCalculator {
     private void sortBasedOnRaceName() { //Insertion Sort
         
     }
-    
+
     private void sortBasedOnCRF() { //Insertion Sort
         
     }
